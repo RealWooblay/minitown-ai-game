@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dfe26d82cb19414282753c1cb9b4044, type: 3}
+  m_Name: Spirit
+  m_EditorClassIdentifier: 
+  characterID: spirit
+  characterName: Spirit
+  characterPrefab: {fileID: 6847984473969275665, guid: bb4a1b37a47e94b8aa7b0d5f03842e6f, type: 3}
